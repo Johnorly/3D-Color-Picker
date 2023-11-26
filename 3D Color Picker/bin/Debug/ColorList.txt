@@ -1,0 +1,6 @@
+Red, Red, DarkRed, IndianRed
+Orange, OrangeRed, DarkOrange, Orange
+Yellow, Yellow, Goldenrod, Gold
+Green, Green, DarkGreen, LimeGreen
+Blue, Blue, DarkBlue, LightSkyBlue
+Violet, Purple, DarkMagenta, Violet

@@ -1,0 +1,17 @@
+D:\John Files\VB Project 2015\3D Color Picker\3D Color Picker\bin\Debug\3D Color Picker.exe.config
+D:\John Files\VB Project 2015\3D Color Picker\3D Color Picker\bin\Debug\3D Color Picker.exe
+D:\John Files\VB Project 2015\3D Color Picker\3D Color Picker\bin\Debug\3D Color Picker.pdb
+D:\John Files\VB Project 2015\3D Color Picker\3D Color Picker\bin\Debug\3D Color Picker.xml
+D:\John Files\VB Project 2015\3D Color Picker\3D Color Picker\bin\Debug\OpenTK.dll
+D:\John Files\VB Project 2015\3D Color Picker\3D Color Picker\bin\Debug\OpenTK.GLControl.dll
+D:\John Files\VB Project 2015\3D Color Picker\3D Color Picker\bin\Debug\OpenTK.pdb
+D:\John Files\VB Project 2015\3D Color Picker\3D Color Picker\bin\Debug\OpenTK.xml
+D:\John Files\VB Project 2015\3D Color Picker\3D Color Picker\bin\Debug\OpenTK.GLControl.pdb
+D:\John Files\VB Project 2015\3D Color Picker\3D Color Picker\bin\Debug\OpenTK.GLControl.xml
+D:\John Files\VB Project 2015\3D Color Picker\3D Color Picker\obj\Debug\3D Color Picker.vbprojResolveAssemblyReference.cache
+D:\John Files\VB Project 2015\3D Color Picker\3D Color Picker\obj\Debug\_3D_Color_Picker.FrmMain.resources
+D:\John Files\VB Project 2015\3D Color Picker\3D Color Picker\obj\Debug\_3D_Color_Picker.Resources.resources
+D:\John Files\VB Project 2015\3D Color Picker\3D Color Picker\obj\Debug\3D Color Picker.vbproj.GenerateResource.Cache
+D:\John Files\VB Project 2015\3D Color Picker\3D Color Picker\obj\Debug\3D Color Picker.exe
+D:\John Files\VB Project 2015\3D Color Picker\3D Color Picker\obj\Debug\3D Color Picker.xml
+D:\John Files\VB Project 2015\3D Color Picker\3D Color Picker\obj\Debug\3D Color Picker.pdb
